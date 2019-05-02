@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/.m2/repository/org/apache/lucene/lucene-core/7.7.1/lucene-core-7.7.1.jar" sourcepath="C:/Users/Thomas/.m2/repository/org/apache/lucene/lucene-core/7.7.1/lucene-core-7.7.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.lucene"/>
+			<attribute name="maven.artifactId" value="lucene-core"/>
+			<attribute name="maven.version" value="7.7.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Thomas/.m2/repository/org/apache/lucene/lucene-queryparser/7.7.1/lucene-queryparser-7.7.1.jar" sourcepath="C:/Users/Thomas/.m2/repository/org/apache/lucene/lucene-queryparser/7.7.1/lucene-queryparser-7.7.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.lucene"/>
+			<attribute name="maven.artifactId" value="lucene-queryparser"/>
+			<attribute name="maven.version" value="7.7.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Thomas/.m2/repository/org/apache/lucene/lucene-analyzers-common/4.10.3/lucene-analyzers-common-4.10.3.jar" sourcepath="C:/Users/Thomas/.m2/repository/org/apache/lucene/lucene-analyzers-common/4.10.3/lucene-analyzers-common-4.10.3-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.lucene"/>
+			<attribute name="maven.artifactId" value="lucene-analyzers-common"/>
+			<attribute name="maven.version" value="4.10.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
